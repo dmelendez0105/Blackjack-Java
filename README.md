@@ -41,6 +41,10 @@ The application consists of five Java classes:
 5. Run `Main.java` as a Java application.
 6. Follow the console prompts to play Blackjack.
 
+## Gameplay Screenshot
+
+![Blackjack gameplay screenshot](images/blackjack-gameplay.png)
+
 ## Author
 
 Daniel Melendez Menendez
